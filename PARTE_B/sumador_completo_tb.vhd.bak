@@ -1,0 +1,30 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity sumador_completo_tb is
+end sumador_completo_tb;
+
+architecture behavior of sumador_completo_tb is
+	component sumador_completo
+	port(
+		  in_a : in std_logic;
+		  in_b : in std_logic;
+		  in_cin : in std_logic;
+		  clk : in std_logic;
+		  o_f : out std_logic;
+		  c_cout : out std_logic
+		  );
+	end component;
+	
+	signal in_a : std_logic:= '0';
+	signal in_b : std_logic:= '0';
+	signal in_cin : std_logic:= '0';
+	signal clk : std_logic:= '0';
+	signal o_f : std_logic;
+	signal c_cout : std_logic;
+	
+constant clock_period : time := 20ns;
+
+begin
+	uut: sumador_completo port map (
+	)

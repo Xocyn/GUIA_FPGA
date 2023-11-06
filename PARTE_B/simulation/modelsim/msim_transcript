@@ -1,0 +1,48 @@
+# Reading C:/altera/13.0sp1/modelsim_ase/tcl/vsim/pref.tcl 
+# do PARTEB_run_msim_rtl_vhdl.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0sp1\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {C:/Users/Usuario/Desktop/GUIA_FPGA/PARTE_B/FFD.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Loading package std_logic_arith
+# -- Loading package STD_LOGIC_UNSIGNED
+# -- Compiling entity FFD
+# -- Compiling architecture behavioral of FFD
+# 
+# vcom -93 -work work {C:/Users/Usuario/Desktop/GUIA_FPGA/PARTE_B/sumador_completo_tb.vhd}
+# Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity sumador_completo_tb
+# -- Compiling architecture behavior of sumador_completo_tb
+# ** Warning: [4] C:/Users/Usuario/Desktop/GUIA_FPGA/PARTE_B/sumador_completo_tb.vhd(26): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Error: C:/Users/Usuario/Desktop/GUIA_FPGA/PARTE_B/sumador_completo_tb.vhd(35): (vcom-1136) Unknown identifier "o_cout".
+# 
+# ** Error: C:/Users/Usuario/Desktop/GUIA_FPGA/PARTE_B/sumador_completo_tb.vhd(35): (vcom-1484) Unknown formal identifier "o_cout".
+# 
+# ** Warning: [4] C:/Users/Usuario/Desktop/GUIA_FPGA/PARTE_B/sumador_completo_tb.vhd(48): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Usuario/Desktop/GUIA_FPGA/PARTE_B/sumador_completo_tb.vhd(49): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Usuario/Desktop/GUIA_FPGA/PARTE_B/sumador_completo_tb.vhd(50): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Usuario/Desktop/GUIA_FPGA/PARTE_B/sumador_completo_tb.vhd(51): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Usuario/Desktop/GUIA_FPGA/PARTE_B/sumador_completo_tb.vhd(52): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Usuario/Desktop/GUIA_FPGA/PARTE_B/sumador_completo_tb.vhd(53): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Usuario/Desktop/GUIA_FPGA/PARTE_B/sumador_completo_tb.vhd(54): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Warning: [4] C:/Users/Usuario/Desktop/GUIA_FPGA/PARTE_B/sumador_completo_tb.vhd(55): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+# ** Error: C:/Users/Usuario/Desktop/GUIA_FPGA/PARTE_B/sumador_completo_tb.vhd(57): VHDL Compiler exiting
+# ** Error: C:/altera/13.0sp1/modelsim_ase/win32aloem/vcom failed.
+# Error in macro ./PARTEB_run_msim_rtl_vhdl.do line 10
+# C:/altera/13.0sp1/modelsim_ase/win32aloem/vcom failed.
+#     while executing
+# "vcom -93 -work work {C:/Users/Usuario/Desktop/GUIA_FPGA/PARTE_B/sumador_completo_tb.vhd}"
