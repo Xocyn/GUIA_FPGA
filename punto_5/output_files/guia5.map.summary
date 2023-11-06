@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Mon Oct 30 16:10:50 2023
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Web Edition
+Revision Name : guia5
+Top-level Entity Name : ffjk
+Family : Cyclone III
+Total logic elements : 1
+    Total combinational functions : 1
+    Dedicated logic registers : 1
+Total registers : 1
+Total pins : 4
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0

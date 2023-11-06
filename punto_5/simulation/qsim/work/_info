@@ -1,0 +1,81 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\usuario\Desktop\guia 5\simulation\qsim
+vffjk
+Z1 I_7;DVj33;CnlALkHaKAbo3
+Z2 VZ[Z:O6k[C?Hn^]9TH45nH0
+Z3 dC:\Users\usuario\Desktop\guia 5\simulation\qsim
+Z4 w1698691533
+Z5 8guia5.vo
+Z6 Fguia5.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 o-work work -O0
+!i10b 1
+Z9 !s100 N9X>iFhJ^H>3eQl0XVfZ:3
+!s85 0
+Z10 !s108 1698691538.113000
+Z11 !s107 guia5.vo|
+Z12 !s90 -work|work|guia5.vo|
+!s101 -O0
+vffjk_vlg_check_tst
+!i10b 1
+!s100 j<3AQ^Lm4DXTLa7:[ASO91
+IlOUGe_>K:I`K>Rz:MAA<83
+V4YoCH^ZF_g5Db303Vd5?R2
+R3
+Z13 w1698691530
+Z14 8guia5.vt
+Z15 Fguia5.vt
+L0 59
+R7
+r1
+!s85 0
+31
+Z16 !s108 1698691538.851000
+Z17 !s107 guia5.vt|
+Z18 !s90 -work|work|guia5.vt|
+!s101 -O0
+R8
+vffjk_vlg_sample_tst
+!i10b 1
+!s100 AD6SVXg:jDeXMXJ^3:8AZ2
+I@f45l1DD6<o9afAYjBk8P2
+V8BmRlTU^S=G]L;PM<]hnh3
+R3
+R13
+R14
+R15
+L0 29
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
+vffjk_vlg_vec_tst
+!i10b 1
+!s100 meYTNE@WQ_UDkoG:hID=93
+IZ4Q`=Q:id]_=7L44mij?L3
+V2hY:J5Q<VM1dKDm>W7@Wi3
+R3
+R13
+R14
+R15
+L0 154
+R7
+r1
+!s85 0
+31
+R16
+R17
+R18
+!s101 -O0
+R8
