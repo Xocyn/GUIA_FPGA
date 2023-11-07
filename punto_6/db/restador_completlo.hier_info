@@ -1,0 +1,17 @@
+|restador_completlo
+A => Difference.IN0
+A => Borrow.IN0
+A => Borrow.IN0
+B => Difference.IN1
+B => Borrow.IN1
+B => Borrow.IN0
+Cin => Difference.IN1
+Cin => Borrow.IN1
+Cin => Borrow.IN1
+Sub <= Sub~reg0.DB_MAX_OUTPUT_PORT_TYPE
+Borrow <= Borrow~reg0.DB_MAX_OUTPUT_PORT_TYPE
+CLK => Sub~reg0.CLK
+CLK => Borrow~reg0.CLK
+CLK => Difference.CLK
+
+
