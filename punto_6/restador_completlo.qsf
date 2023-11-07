@@ -47,6 +47,7 @@ set_global_assignment -name MIN_CORE_JUNCTION_TEMP 0
 set_global_assignment -name MAX_CORE_JUNCTION_TEMP 85
 set_global_assignment -name ERROR_CHECK_FREQUENCY_DIVISOR 1
 set_global_assignment -name NOMINAL_CORE_SUPPLY_VOLTAGE 1.2V
+<<<<<<< HEAD
 set_global_assignment -name VHDL_FILE restador_completlo.vhd
 set_global_assignment -name PARTITION_NETLIST_TYPE SOURCE -section_id Top
 set_global_assignment -name PARTITION_FITTER_PRESERVATION_LEVEL PLACEMENT_AND_ROUTING -section_id Top
@@ -65,3 +66,6 @@ set_global_assignment -name EDA_TEST_BENCH_MODULE_NAME restador_completlo_tb -se
 set_global_assignment -name EDA_TEST_BENCH_FILE restador_completlo_tb.vhd -section_id restador_completlo_tb
 set_global_assignment -name POWER_PRESET_COOLING_SOLUTION "23 MM HEAT SINK WITH 200 LFPM AIRFLOW"
 set_global_assignment -name POWER_BOARD_THERMAL_MODEL "NONE (CONSERVATIVE)"
+=======
+set_global_assignment -name VHDL_FILE restador_completlo.vhd
+>>>>>>> 4ebf7e0d125b6edef53d33d6d25a811717b1a93a
